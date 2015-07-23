@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles-bundle.css"],"names":[],"mappings":"AACA,KADA,KAEE,WAAY,KACZ,KAAM,IAAO,KAAM,KAAK,QAAS","file":"styles-bundle.css","sourcesContent":["html,\nbody {\n  background: #222222;\n  font: normal 15px/23px \"Arial\", sans-serif;\n}\n"],"sourceRoot":"/source/"}
